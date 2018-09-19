@@ -149,7 +149,7 @@ If a simple on/off value is needed, a boolean type option can be requested:
   "userOptions": {
     "Parameter Name": {
       "type": "boolean",
-      "default": true,
+      "default": True,
     }
   }
 }
